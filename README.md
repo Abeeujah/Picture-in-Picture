@@ -1,2 +1,1 @@
-# Picture-in-Picture
-# Picture-in-Picture
+Taking advantage of the Screen Capture web api and the Picture in Picture mode enabled in browsers
